@@ -1,0 +1,31 @@
+.MyH1 {
+    font-size: 40px;
+    color: rgb(68, 42, 42);
+    text-align: center;
+}
+body{
+    margin: 0;
+    background: linear-gradient(to right, red 0%, rgb(255, 198, 198) 30%, rgb(255, 198, 198) 70%, red 100%);
+    place-self: center;
+}
+.MyH3{
+    font-size: 30px;
+    color: rgb(68, 42, 42);
+    text-align: center;
+}
+.MyPre{
+    color: rgb(68, 42, 42);
+    font-size: 18px;
+    font-style: italic;
+    place-self: center;
+}
+.gif{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.rickimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
